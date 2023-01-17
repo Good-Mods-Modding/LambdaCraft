@@ -1,2 +1,2 @@
-# BroccoliCraft
-The BroccoliCraft modpack
+# LambdaCraft
+The LambdaCraft modpack
